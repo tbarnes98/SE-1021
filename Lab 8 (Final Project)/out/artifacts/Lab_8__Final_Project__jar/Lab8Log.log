@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-05-19T16:25:17</date>
+  <millis>1526765117206</millis>
+  <sequence>0</sequence>
+  <logger>Lab8</logger>
+  <level>WARNING</level>
+  <class>barnestr.Controller</class>
+  <method>save</method>
+  <thread>13</thread>
+  <message>No file destination was chosen</message>
+</record>
+</log>
